@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+C:/Users/amirc/Documents/Personal/Shushan-TV/build/CMakeFiles/bootloader
+C:/Users/amirc/Documents/Personal/Shushan-TV/build/CMakeFiles/bootloader.rule
+C:/Users/amirc/Documents/Personal/Shushan-TV/build/CMakeFiles/bootloader-complete.rule
+C:/Users/amirc/Documents/Personal/Shushan-TV/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+C:/Users/amirc/Documents/Personal/Shushan-TV/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+C:/Users/amirc/Documents/Personal/Shushan-TV/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+C:/Users/amirc/Documents/Personal/Shushan-TV/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+C:/Users/amirc/Documents/Personal/Shushan-TV/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+C:/Users/amirc/Documents/Personal/Shushan-TV/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+C:/Users/amirc/Documents/Personal/Shushan-TV/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule

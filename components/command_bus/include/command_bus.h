@@ -9,6 +9,8 @@
 
 #pragma once
 
+#include <stdbool.h>
+
 #include "app_types.h"
 #include "esp_err.h"
 
